@@ -38,7 +38,7 @@ public class TransactionService {
         transaction.setTransactionStatus(TransactionStatus.PENDING);
 
         //Validations
-        if(book == null || book.isIssued() == true) {
+        if(book == null || book.isIssued()) {
             transaction.setTransactionStatus(TransactionStatus.FAILED);
             transactionRepository.save(transaction);
             throw new Exception("Book not available");

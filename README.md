@@ -1,31 +1,17 @@
-# Student-Library-ManagementSystem
-A backend Spring Boot Project
-Project Title
-A brief description of what this project does.
+# Student Library Management System
+A backend Spring Boot Project which is about managing library book issue to student and returning back.
 
 Table of Contents
-Installation
 Usage
-Contributing
 Known Issues
 Contact
-Installation
-Describe how to install your project and any prerequisites that need to be installed first. Include code snippets or commands as necessary.
 
-Usage
-Provide instructions on how to use your project, including any necessary commands or settings. Give examples of use cases to demonstrate its capabilities.
+### Usage
 
-Contributing
-Explain how users can contribute to your project, whether it's reporting bugs, submitting feature requests, or contributing code. Provide guidelines on how to submit pull requests.
+This project is basically made while learning and practicing spring boot. 
 
-Known Issues
-List any known issues or limitations with your project. Be honest and transparent about any problems users may encounter.
+### Known Issues
+1. Issue1
 
-Contact
-Include your contact information (email, social media, etc.) so users can get in touch if they have questions or feedback.
-
-License
-State the license that your project is released under, along with any relevant details.
-
-You can customize this template to fit your own project and add any
-
+### Contact
+Email: [pappukr3631@gmail.com](mailto:pappukr3631@gmail.com), LinkedIn: https://www.linkedin.com/in/pappu-sharma-418396191/.
