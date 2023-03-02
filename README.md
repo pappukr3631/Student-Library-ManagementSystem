@@ -1,10 +1,6 @@
 # Student Library Management System
-A backend Spring Boot Project which is about managing library book issue to student and returning back.
+A backend Spring Boot Project about managing library book, issue book, returning, adding, etc,.
 
-Table of Contents
-Usage
-Known Issues
-Contact
 
 ### Usage
 
